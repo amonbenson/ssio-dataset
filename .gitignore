@@ -1,0 +1,5 @@
+# ignore uncompressed wav files
+wavs/*.wav
+
+# ignore the temporary tar archive
+wavs.tar.gz

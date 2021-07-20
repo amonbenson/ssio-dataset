@@ -1,0 +1,213 @@
+sample-00|S S I O, ah|s s i o, ah
+sample-01|Das letzte Mal an Kubindschaft mit gelb weißen Zähnen|das letzte mal an kubindschaft mit gelb weißen zähnen
+sample-02|Flex Steine gegen Geldscheine geben|flex steine gegen geldscheine geben
+sample-03|Das letzte Mal flüchten vor BN CT|das letzte mal flüchten vor bn ct
+sample-04|Weil ein Hundesohn Zinker nen Fehler begeht, ah|weil ein hundesohn zinker nen fehler begeht, ah
+sample-05|Sich das letzte Mal melden in Kerkrade|sich das letzte mal melden in kerkrade
+sample-06|Und auf der A4 den Van hinterherfahren|und auf der a4 den van hinterherfahren
+sample-07|Das letzte Mal nachts in Casinos fahren|das letzte mal nachts in casinos fahren
+sample-08|Amphetamin und Hase handeln mit Kilo Waagen|amphetamin und hase handeln mit kilo waagen
+sample-09|Das letzte Mal illegal Geschäfte|das letzte mal illegal geschäfte
+sample-10|Und dann hinter Gittern aus Menagen essen|und dann hinter gittern aus menagen essen
+sample-11|Das letzte Mal mit Kanacken Palaver|das letzte mal mit kanacken palaver
+sample-12|In der Zelle schieben wegen Halfzware Shag Tabak|in der zelle schieben wegen halfzware shag tabak
+sample-13|Ah Nuttö, das letzte Mal mit offenem Cabrio Dach sechser fahrn|ah nuttö, das letzte mal mit offenem cabrio dach sechser fahrn
+sample-14|Das letzte mal mit so viel Neidern hängn|das letzte mal mit so viel neidern hängn
+sample-15|Und im Club Flaschen schmeißen im Designer Hemd|und im club flaschen schmeißen im designer hemd
+sample-16|Das letzte Mal gibts bei mir niemals|das letzte mal gibts bei mir niemals
+sample-17|Zu groß ist die Sucht nach dem Schein in lila|zu groß ist die sucht nach dem schein in lila
+sample-18|Niemals! Lieber weiter Grabis verticken|niemals! lieber weiter grabis verticken
+sample-19|Und hoffen, dass die Bullen dich niemabils pabicken|und hoffen, dass die bullen dich niemabils pabicken
+sample-20|Das letzte Mal gibts bei mir niemals|das letzte mal gibts bei mir niemals
+sample-21|Zu groß ist die Sucht nach dem Schein in lila|zu groß ist die sucht nach dem schein in lila
+sample-22|Niemals! Lieber weiter Grabis|niemals! lieber weiter grabis
+sample-23|Das letzte Mal Daytona tragen|das letzte mal daytona tragen
+sample-24|Durch Tickerei Parra von Haze und Normales|durch tickerei parra von haze und normales
+sample-25|Das letzte Mal Rumpsteak mit Pfeffersoße|das letzte mal rumpsteak mit pfeffersoße
+sample-26|Statt in der Zelle neben Junkies auf Methadon, ah|statt in der zelle neben junkies auf methadon, ah
+sample-27|Das letzte Mal Akapulko|das letzte mal akapulko
+sample-28|Fick Session starten mit Kamagra und so|fick session starten mit kamagra und so
+sample-29|Das letzte Mal Komplikationen|das letzte mal komplikationen
+sample-30|Wenn Leute bei mir kommen und auf Kombi Gras holen|wenn leute bei mir kommen und auf kombi gras holen
+sample-31|Das letzte mal ein Glas Glenfiddich|das letzte mal ein glas glenfiddich
+sample-32|Der Benz ist geschaltet auf Abblendlibicht|der benz ist geschaltet auf abblendlibicht
+sample-33|Fürs Auto Sitze mit Wildleder holen|fürs auto sitze mit wildleder holen
+sample-34|Ja ja, soviel zum Thema Integration|ja ja, soviel zum thema integration
+sample-35|Das letzte Mal Testo kaufen mit Nadeln|das letzte mal testo kaufen mit nadeln
+sample-36|Und vom Gewichtestämmen Hautrissen haben|und vom gewichtestämmen hautrissen haben
+sample-37|Letztes Mal, dass ich vorm Mikrofon bin|letztes mal, dass ich vorm mikrofon bin
+sample-38|Und gestört werd vom Handy durch Kilo Kunden|und gestört werd vom handy durch kilo kunden
+sample-39|Das letzte Mal gibts bei mir niemals|das letzte mal gibts bei mir niemals
+sample-40|Zu groß ist die Sucht nach dem Schein in lila|zu groß ist die sucht nach dem schein in lila
+sample-41|Niemals! Lieber weiter Grabis verticken|niemals! lieber weiter grabis verticken
+sample-42|Und hoffen, dass die Bullen dich niemabils pabicken|und hoffen, dass die bullen dich niemabils pabicken
+sample-43|Das letzte Mal gibts bei mir niemals|das letzte mal gibts bei mir niemals
+sample-44|Zu groß ist die Sucht nach dem Schein in lila|zu groß ist die sucht nach dem schein in lila
+sample-45|Niemals! Lieber weiter Grabis verticken|niemals! lieber weiter grabis verticken
+sample-46|Und hoffen, dass die Bullen dich niemabils pabicken|und hoffen, dass die bullen dich niemabils pabicken
+sample-47|Ah, Warum rapp ich nur von Zizzies machen und Schlampen, die ich bums weil|ah, warum rapp ich nur von zizzies machen und schlampen, die ich bums weil
+sample-48|Alle meine Fans sind maskuline Jungs. Ja, ja|alle meine fans sind maskuline jungs. ja, ja
+sample-49|Das ist Bonn nicht Paris|das ist bonn nicht paris
+sample-50|Der Ot Ticker schießt auf Kopfnicker Beats|der ot ticker schießt auf kopfnicker beats
+sample-51|Ich vertibicke an Gras  und Piecekunden Mengen|ich vertibicke an gras  und piecekunden mengen
+sample-52|Und fahr seitdem rum mit Satellit großen Felgen|und fahr seitdem rum mit satellit großen felgen
+sample-53|Meine Jungs sind am Kiosk, die Junkies|meine jungs sind am kiosk, die junkies
+sample-54|Weil S S I O für Peace sorgt wie Ghandi|weil s s i o für peace sorgt wie ghandi
+sample-55|Wenn wir kommen und du paar Ochsen siehst|wenn wir kommen und du paar ochsen siehst
+sample-56|Kackst du Schmarotzer tief in deine Karottenjeans|kackst du schmarotzer tief in deine karottenjeans
+sample-57|Bin Pelzjackenträger durch Pep, Gras und Baida|bin pelzjackenträger durch pep, gras und baida
+sample-58|Geldstrafen schmälern und Benz AMG fahren, Nutte|geldstrafen schmälern und benz amg fahren, nutte
+sample-59|Was für glaubhafte Schiene?|was für glaubhafte schiene?
+sample-60|Wenn du zuckst beim Sound von meiner V acht Maschine|wenn du zuckst beim sound von meiner v acht maschine
+sample-61|Du wirst von uns geohrfeigt mit Händen|du wirst von uns geohrfeigt mit händen
+sample-62|Die so groß sind, dass von dem Druck deine Storchbeine brechen, ah|die so groß sind, dass von dem druck deine storchbeine brechen, ah
+sample-63|Wer ist der King of Rap?|wer ist der king of rap?
+sample-64|Guckt nur bei Sexrelax|guckt nur bei sexrelax
+sample-65|Kopfnicken kostet Geld|kopfnicken kostet geld
+sample-66|Normal, 0228 ist die Vorwahl|normal, 0228 ist die vorwahl
+sample-67|Wer bumst auch dickere Frauen?|wer bumst auch dickere frauen?
+sample-68|Wer holt die SIM Karte raus?|wer holt die sim karte raus?
+sample-69|Wer ist S S I O?|wer ist s s i o?
+sample-70|Ja Ja, bums alles weg, deutscher Rap ist ne Nutte|ja ja, bums alles weg, deutscher rap ist ne nutte
+sample-71|Jaja, ich fick Nutten weg|jaja, ich fick nutten weg
+sample-72|Aus dem Stripclub Geschäft, tick Koks und Pep|aus dem stripclub geschäft, tick koks und pep
+sample-73|Vor Kribipos versteckt, die in Immobilien|vor kribipos versteckt, die in immobilien
+sample-74|Ermitteln ohne Erfolg, weil ich Ingo Thiee kenn|ermitteln ohne erfolg, weil ich ingo thiee kenn
+sample-75|Halts Maul und such an Ostern paar Eier|halts maul und such an ostern paar eier
+sample-76|Während ich mit Pflanzen mein Großhandel treib, Ah|während ich mit pflanzen mein großhandel treib, ah
+sample-77|Krieg Piece und Haze aus Heerlen nach Haus|krieg piece und haze aus heerlen nach haus
+sample-78|Dessen Kilopacks ich vorher in Airbags verbau, Nuttensohn|dessen kilopacks ich vorher in airbags verbau, nuttensohn
+sample-79|Ich häng draußen ab und bums Mädels|ich häng draußen ab und bums mädels
+sample-80|Du welche die von außen starken Jungs ähneln|du welche die von außen starken jungs ähneln
+sample-81|Dazu hab ich Weltklasse Kunden|dazu hab ich weltklasse kunden
+sample-82|Und kann bald den Bizeps mit Geldbatzen pumpen, Normal|und kann bald den bizeps mit geldbatzen pumpen, normal
+sample-83|siehst du wie wir L Blätter bauen|siehst du wie wir l blätter bauen
+sample-84|Und aus Spaß mit nem Brett Backpackrapper hauen|und aus spaß mit nem brett backpackrapper hauen
+sample-85|Feiern in grauen G Star Hosen im Club|feiern in grauen g star hosen im club
+sample-86|Weil wir Jungs sind mit Migrationshintergrund|weil wir jungs sind mit migrationshintergrund
+sample-87|Wer ist der King of Rap?|wer ist der king of rap?
+sample-88|Guckt nur bei Sexrelax|guckt nur bei sexrelax
+sample-89|Kopfnicken kostet Geld|kopfnicken kostet geld
+sample-90|Normal, 0228 ist die Vorwahl|normal, 0228 ist die vorwahl
+sample-91|Wer bumst auch dickere Frauen?|wer bumst auch dickere frauen?
+sample-92|Wer holt die SIM Karte raus?|wer holt die sim karte raus?
+sample-93|Wer ist S S I O?|wer ist s s i o?
+sample-94|Ja Ja, bums alles weg, deutscher Rap ist ne Nutte|ja ja, bums alles weg, deutscher rap ist ne nutte
+sample-95|Ahh, ich vertick Pillen oder Harz|ahh, ich vertick pillen oder harz
+sample-96|Machst auf Straßenrap und spittest 100 Bars, mit Brille ohne Glas. Zieh ab!|machst auf straßenrap und spittest 100 bars, mit brille ohne glas. zieh ab!
+sample-97|Laber mich nicht voll von Scheine machen|laber mich nicht voll von scheine machen
+sample-98|Wenn du Regale auffüllen gehst im Einzelhandel|wenn du regale auffüllen gehst im einzelhandel
+sample-99|Jeden Tag Supersatz Euro Training|jeden tag supersatz euro training
+sample-100|Danach diversen Kunden ein Beutel Haze bringen|danach diversen kunden ein beutel haze bringen
+sample-101|Häng mit Jungs mit adrigem Bizeps und krummen Nasen|häng mit jungs mit adrigem bizeps und krummen nasen
+sample-102|Du mit Jungs, die nen Piercing auf Zungen tragen|du mit jungs, die nen piercing auf zungen tragen
+sample-103|Bei meinen Joints machst du nach nem Zug Heia|bei meinen joints machst du nach nem zug heia
+sample-104|Und dein Kopf dreht sich im Kreis so wie Uhrzeiger Nutte|und dein kopf dreht sich im kreis so wie uhrzeiger nutte
+sample-105|Ich treff mich mit blonden Sharmuts|ich treff mich mit blonden sharmuts
+sample-106|Bei Null Grad trotzdem im Jogginganzug|bei null grad trotzdem im jogginganzug
+sample-107|Du siehst neben Fuffi Batzen Uzi Knarren|du siehst neben fuffi batzen uzi knarren
+sample-108|Währenddessen im Backstage Groupies blasen|währenddessen im backstage groupies blasen
+sample-109|Entweder Parra mit Rapmusik|entweder parra mit rapmusik
+sample-110|Oder weiterhin auf der Straße mit Päckchen Piece|oder weiterhin auf der straße mit päckchen piece
+sample-111|Wer ist der King of Rap?|wer ist der king of rap?
+sample-112|Guckt nur bei Sexrelax|guckt nur bei sexrelax
+sample-113|Kopfnicken kostet Geld|kopfnicken kostet geld
+sample-114|Normal, 0228 ist die Vorwahl|normal, 0228 ist die vorwahl
+sample-115|Wer bumst auch dickere Frauen?|wer bumst auch dickere frauen?
+sample-116|Wer holt die SIM Karte raus?|wer holt die sim karte raus?
+sample-117|Wer ist S S I O?|wer ist s s i o?
+sample-118|Ja Ja, bums alles weg, deutscher Rap ist ne Nutte|ja ja, bums alles weg, deutscher rap ist ne nutte
+sample-119|Nutte, ich bin der erste Rapper mit Inhalt und Message|nutte, ich bin der erste rapper mit inhalt und message
+sample-120|Es geht um Drogen, Huren und immer um Mecces|es geht um drogen, huren und immer um mecces
+sample-121|Rapper machen Ansagen und Absagen|rapper machen ansagen und absagen
+sample-122|Mit Tracks, die klingen, wie schwanzblasende Balladen|mit tracks, die klingen, wie schwanzblasende balladen
+sample-123|Stoff ticken ist die Basis für Rap Singles|stoff ticken ist die basis für rap singles
+sample-124|Du kommst mit Punchlines, ich aus Maastricht mit Stecklinge|du kommst mit punchlines, ich aus maastricht mit stecklinge
+sample-125|Plastiktüten mit Hanfblatt und Zippverschluss|plastiktüten mit hanfblatt und zippverschluss
+sample-126|Irgendwie macht man durch Straftaten immer Plus|irgendwie macht man durch straftaten immer plus
+sample-127|Wen juckt deine Meinung, Hure?|wen juckt deine meinung, hure?
+sample-128|Beschwerst dich wegen Style und Coolness, Reimstrukturen|beschwerst dich wegen style und coolness, reimstrukturen
+sample-129|Hab zerknüllte Batzen statt goldener Mastercard|hab zerknüllte batzen statt goldener mastercard
+sample-130|Bums deine Mami, weil heute ist Vatertag|bums deine mami, weil heute ist vatertag
+sample-131|Fress mich voll mit Aioli und Tapasschalen|fress mich voll mit aioli und tapasschalen
+sample-132|Pflanz mit Ragga Paten ganze Grasplantagen|pflanz mit ragga paten ganze grasplantagen
+sample-133|Ich hau auf deine New Era Cappy|ich hau auf deine new era cappy
+sample-134|Und du sagst, ich finde dein Fuß lecker, Daddy|und du sagst, ich finde dein fuß lecker, daddy
+sample-135|Ich piss auf das Mic und die Mucke klingt fetter, als neunzig Prozent der Hurensohnrapper|ich piss auf das mic und die mucke klingt fetter, als neunzig prozent der hurensohnrapper
+sample-136|Nullkommaneun Nullkommaneun Nullkommaneun Nullkommaneun|nullkommaneun nullkommaneun nullkommaneun nullkommaneun
+sample-137|Ich piss auf das Mic und bin trotzdem im Takt|ich piss auf das mic und bin trotzdem im takt
+sample-138|Ihr Strichfotzen in Chucks mit Lipgloss für den Glanz|ihr strichfotzen in chucks mit lipgloss für den glanz
+sample-139|Tannenbusch, Nutte!|tannenbusch, nutte!
+sample-140|Kochende Crack Betriebe|kochende crack betriebe
+sample-141|Goldene Kettenliebe, polnische Felgendiebe|goldene kettenliebe, polnische felgendiebe
+sample-142|V zwölf Maschinen auf Backsteinen geparkt|v zwölf maschinen auf backsteinen geparkt
+sample-143|Stehst geschockt morgens auf mit Kackstreifen im Arsch, Nuttensohn|stehst geschockt morgens auf mit kackstreifen im arsch, nuttensohn
+sample-144|Wo sind deine Tiefbettschlappen?|wo sind deine tiefbettschlappen?
+sample-145|Weed Packs handeln aus Eastpak Taschen|weed packs handeln aus eastpak taschen
+sample-146|Postfach immer voll, viele Briefumschläge|postfach immer voll, viele briefumschläge
+sample-147|Du brauchst schon für fünfer Gras Finanzierungspläne|du brauchst schon für fünfer gras finanzierungspläne
+sample-148|Dumme Huren wollen seelischen Beistand|dumme huren wollen seelischen beistand
+sample-149|Schon nach paar Takten putzen sie die Zähne mit meinem Schwanz|schon nach paar takten putzen sie die zähne mit meinem schwanz
+sample-150|Bomben Ivory da, Erdbeerknollen|bomben ivory da, erdbeerknollen
+sample-151|Dessen Wirkung dir locker den Nerv zertrommeln|dessen wirkung dir locker den nerv zertrommeln
+sample-152|Um 2 Uhr Nachts hörst du Haftschadenschreie|um 2 uhr nachts hörst du haftschadenschreie
+sample-153|Wo du schon am Träumen bist von Mangagezeichne|wo du schon am träumen bist von mangagezeichne
+sample-154|Doch Pokemon ist im Vergleich zu Deutsch Rap|doch pokemon ist im vergleich zu deutsch rap
+sample-155|Ein Gangstafilm, in dem man perlweißes Zeug streckt|ein gangstafilm, in dem man perlweißes zeug streckt
+sample-156|Ich piss auf das Mic und die Mucke klingt fetter, als neunzig Prozent der Hurensohnrapper|ich piss auf das mic und die mucke klingt fetter, als neunzig prozent der hurensohnrapper
+sample-157|Ich piss auf das Mic und bin trotzdem im Takt|ich piss auf das mic und bin trotzdem im takt
+sample-158|Ihr Strichfotzen in Chucks mit Lipgloss für den Glanz|ihr strichfotzen in chucks mit lipgloss für den glanz
+sample-159|Ich hab ne neue Nummer, ne neue Nummer|ich hab ne neue nummer, ne neue nummer
+sample-160|Ich hab ne nigel nagel neue Nummer|ich hab ne nigel nagel neue nummer
+sample-161|Ich hab ne neue Nummer, ne neue Nummer|ich hab ne neue nummer, ne neue nummer
+sample-162|Nebenbei dicker Schwanz und teure Klunker|nebenbei dicker schwanz und teure klunker
+sample-163|Ich hab ne neue Nummer, ne neue Nummer|ich hab ne neue nummer, ne neue nummer
+sample-164|Ich hab ne nigel nagel neue Nummer|ich hab ne nigel nagel neue nummer
+sample-165|Ich hab ne neue Nummer, ne neue Nummer|ich hab ne neue nummer, ne neue nummer
+sample-166|Fragen, warum ich neue Nummern hole|fragen, warum ich neue nummern hole
+sample-167|Wechselt ihr nicht jeden Tag eure Unterhose?|wechselt ihr nicht jeden tag eure unterhose?
+sample-168|Blauworld, Lebara, Lycamobile|blauworld, lebara, lycamobile
+sample-169|Telekom ist dagegen alter Rotwein|telekom ist dagegen alter rotwein
+sample-170|Ich bin Deutschlands bester Call Shop Klient|ich bin deutschlands bester call shop klient
+sample-171|In der Hand mit Hot Dog und der Ot Johnny brennt|in der hand mit hot dog und der ot johnny brennt
+sample-172|An der Theke Khat kauende Somalier|an der theke khat kauende somalier
+sample-173|Bei denen die Zähne abbauen am Oberkiefer|bei denen die zähne abbauen am oberkiefer
+sample-174|Hol Kartenmengen zu Brüderpreisen|hol kartenmengen zu brüderpreisen
+sample-175|Zahle bar, anonym, scheiß auf Überweisen|zahle bar, anonym, scheiß auf überweisen
+sample-176|Ah, deutscher Rap ist eine Gaylord Parade|ah, deutscher rap ist eine gaylord parade
+sample-177|Hab nur Atemgeräusche als Mailbox Ansage|hab nur atemgeräusche als mailbox ansage
+sample-178|Meine Finger sind flink auf Rubbelfeldern|meine finger sind flink auf rubbelfeldern
+sample-179|Sämtliche Passwörter sind umbenennbar|sämtliche passwörter sind umbenennbar
+sample-180|Ich steck die Karte in das Samsung Handy|ich steck die karte in das samsung handy
+sample-181|Stell mich auf die Straße und mach den Balotelli, Nutte|stell mich auf die straße und mach den balotelli, nutte
+sample-182|Ich hab ne neue Nummer, ne neue Nummer|ich hab ne neue nummer, ne neue nummer
+sample-183|Ich hab ne nigel nagel neue Nummer|ich hab ne nigel nagel neue nummer
+sample-184|Ich hab ne neue Nummer, ne neue Nummer|ich hab ne neue nummer, ne neue nummer
+sample-185|Nebenbei dicker Schwanz und teure Klunker|nebenbei dicker schwanz und teure klunker
+sample-186|Ich hab ne neue Nummer, ne neue Nummer|ich hab ne neue nummer, ne neue nummer
+sample-187|Ich hab ne nigel nagel neue Nummer|ich hab ne nigel nagel neue nummer
+sample-188|Ich hab ne neue Nummer, ne neue Nummer|ich hab ne neue nummer, ne neue nummer
+sample-189|keiner der mit unbekannt anruft|keiner der mit unbekannt anruft
+sample-190|Wenn ich euch treff, hau ich alle um mit Sandhandschuhn|wenn ich euch treff, hau ich alle um mit sandhandschuhn
+sample-191|Die Telefonnummer besteht aus komplexen Ziffern|die telefonnummer besteht aus komplexen ziffern
+sample-192|Bewundert die Chips, auf denen Goldflächen schimmern, ah|bewundert die chips, auf denen goldflächen schimmern, ah
+sample-193|SIM Karten sollten Parfüm tragen|sim karten sollten parfüm tragen
+sample-194|SIM Karten sollten ein Recht auf Asyl haben|sim karten sollten ein recht auf asyl haben
+sample-195|SIM Karten brauchen eigene Schlafzimmer|sim karten brauchen eigene schlafzimmer
+sample-196|Mit Bett, Tisch und Fensterscheiben mit Knastgitter|mit bett, tisch und fensterscheiben mit knastgitter
+sample-197|Ja, ja, der Disco Kanake|ja, ja, der disco kanake
+sample-198|Scheitert immer wieder bei der PIN Code Abfrage|scheitert immer wieder bei der pin code abfrage
+sample-199|Polyphon Klingelton, scheiß mal auf Nano SIM|polyphon klingelton, scheiß mal auf nano sim
+sample-200|Mein Schrott Handy ist größer als mein Backofen|mein schrott handy ist größer als mein backofen
+sample-201|Freischaltung durch Online Anmeldung|freischaltung durch online anmeldung
+sample-202|Mit falschem Namen und Postleitzahl Fälschung|mit falschem namen und postleitzahl fälschung
+sample-203|Die Karte steckt, schließe die Siemens Hülle|die karte steckt, schließe die siemens hülle
+sample-204|Stell mich auf die Straße und mach Liegestütze, ah|stell mich auf die straße und mach liegestütze, ah
+sample-205|Ich hab ne neue Nummer, ne neue Nummer|ich hab ne neue nummer, ne neue nummer
+sample-206|Ich hab ne nigel nagel neue Nummer|ich hab ne nigel nagel neue nummer
+sample-207|Ich hab ne neue Nummer, ne neue Nummer|ich hab ne neue nummer, ne neue nummer
+sample-208|Nebenbei dicker Schwanz und teure Klunker|nebenbei dicker schwanz und teure klunker
+sample-209|Ich hab ne neue Nummer, ne neue Nummer|ich hab ne neue nummer, ne neue nummer
+sample-210|Ich hab ne nigel nagel neue Nummer|ich hab ne nigel nagel neue nummer
+sample-211|Ich hab ne neue Nummer, ne neue Nummer|ich hab ne neue nummer, ne neue nummer
+sample-212|Nebenbei dicker Schwanz und teure Klunker|nebenbei dicker schwanz und teure klunker
