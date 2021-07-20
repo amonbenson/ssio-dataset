@@ -37,6 +37,7 @@ elif [ $1 = "join" ] ; then
     cat $SPLIT_DIR/part* > $TMP_ARCHIVE
 
     # decompress the archive into multiple wav files
+    rm -rf $WAV_DIR
     mkdir -p $WAV_DIR
     tar -xzf $TMP_ARCHIVE -C $WAV_DIR
 else
