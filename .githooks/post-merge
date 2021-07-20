@@ -1,0 +1,5 @@
+#!/bin/bash
+
+# make sure the wav files are joined back together
+./chunk.sh join
+echo "joined wav files"

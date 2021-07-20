@@ -1,0 +1,5 @@
+#!/bin/bash
+
+# make sure the wavs directory is split into chunks
+./chunk.sh split
+echo "split wav files"
