@@ -28,10 +28,10 @@ if [ $1 = "split" ] ; then
     split -b $SPLIT_CHUNKSIZE $TMP_ARCHIVE "$SPLIT_DIR/part"
 elif [ $1 = "join" ] ; then
     # check if there are any input part files
-    if ! compgen -G "$SPLIT_DIR/part*" > /dev/null ; then
-        echo "no part files found in $SPLIT_DIR"
-        exit 1
-    fi
+#    if ! compgen -G "$SPLIT_DIR/part*" > /dev/null ; then
+#        echo "no part files found in $SPLIT_DIR"
+#        exit 1
+#    fi
 
     # join all chunks together to a single tar archive
     cat $SPLIT_DIR/part* > $TMP_ARCHIVE
